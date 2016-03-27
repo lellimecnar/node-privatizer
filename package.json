@@ -1,0 +1,17 @@
+{
+  "name": "privatizer",
+  "version": "0.0.1",
+  "description": "Use ES2015 Proxy to restrict access of private properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+      "name": "Lance Miller",
+      "email": "npm@lance.pub"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "harmony-reflect": "^1.4.4"
+  }
+}
