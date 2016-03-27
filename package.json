@@ -11,6 +11,20 @@
       "email": "npm@lance.pub"
   },
   "repository": "lellimecnar/node-privatizer",
+  "keywords": [
+      "private",
+      "privates",
+      "private members",
+      "private class members",
+      "private properties",
+      "private class properties",
+      "ES2015",
+      "harmony",
+      "classes",
+      "proxy",
+      "proxies",
+      "harmony-proxies"
+  ],
   "license": "MIT",
   "dependencies": {
     "harmony-reflect": "^1.4.4"
