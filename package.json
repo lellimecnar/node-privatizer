@@ -1,6 +1,6 @@
 {
   "name": "privatizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use ES2015 Proxy to restrict access of private properties.",
   "main": "index.js",
   "scripts": {
