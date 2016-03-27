@@ -10,6 +10,7 @@
       "name": "Lance Miller",
       "email": "npm@lance.pub"
   },
+  "repository": "lellimecnar/node-privatizer",
   "license": "MIT",
   "dependencies": {
     "harmony-reflect": "^1.4.4"
